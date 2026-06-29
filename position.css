@@ -1,0 +1,39 @@
+body {
+    background-color: black;
+    color: white;
+}
+div{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(132, 1, 208);
+    border: 2px;
+    border-style: solid;
+    border-color: black;
+    display: inline-block;
+}
+
+#box1 {
+    position: static;
+}
+
+#box2 {
+    position: relative;
+    top: 10px;
+    left: 10px;
+}
+
+#box3 {
+    position: absolute;
+    top: 50px;
+}
+
+#box4 {
+    position: fixed;
+    right: 10px;
+    top: 0;
+}
+
+#box5 {
+    position: sticky;
+    top: 0px;
+}
