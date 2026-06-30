@@ -1,0 +1,33 @@
+body {
+  display: inline-block;
+}
+
+#div1 {
+  height: 100px;
+  width: 100px;
+  background-color: blue;
+  background-image: url(Cat_image.jpg);
+  background-size: cover;
+  display: inline-block;
+}
+
+#div2 {
+  height: 100px;
+  width: 100px;
+  background-color: blueviolet;
+  display: inline-block;
+}
+
+#div3 {
+  height: 100px;
+  width: 100px;
+  background-color: brown;
+  display: inline-block;
+}
+
+#div4 {
+  height: 100px;
+  width: 100px;
+  background-color: chocolate;
+  display: inline-block;
+}
