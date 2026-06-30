@@ -1,21 +1,21 @@
 body {
-    background-color: black;
-    color: white;
+  background-color: black;
+  color: white;
 }
 
 #div1 {
-    z-index: 10;
-    height: 500px;
-    width: 500px;
-    background-image: url(/Cat_image.jpg);
-    background-size:cover ;
-    font-weight: 500;
-    color: blueviolet;
-    position: fixed;
-    right: 0px;
-    top: 50px;
+  z-index: 10;
+  height: 500px;
+  width: 500px;
+  background-image: url(/Cat_image.jpg);
+  background-size: cover;
+  font-weight: 500;
+  color: blueviolet;
+  position: fixed;
+  right: 0px;
+  top: 50px;
 }
 
-p{
-    z-index: -4;
+p {
+  z-index: -4;
 }
